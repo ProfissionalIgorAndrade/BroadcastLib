@@ -1,0 +1,17 @@
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/bin/Debug/net7.0/Broadcast.Service.deps.json
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/bin/Debug/net7.0/Broadcast.Service.dll
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/bin/Debug/net7.0/Broadcast.Service.pdb
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/bin/Debug/net7.0/Broadcast.Core.dll
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/bin/Debug/net7.0/Broadcast.Infra.dll
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/bin/Debug/net7.0/Broadcast.Core.pdb
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/bin/Debug/net7.0/Broadcast.Infra.pdb
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.csproj.AssemblyReference.cache
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.AssemblyInfoInputs.cache
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.AssemblyInfo.cs
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.csproj.CoreCompileInputs.cache
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.csproj.CopyComplete
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.dll
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/refint/Broadcast.Service.dll
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/Broadcast.Service.pdb
+/home/igorandrade/.projects/BroadcastLib/Broadcast.Service/obj/Debug/net7.0/ref/Broadcast.Service.dll

@@ -1,0 +1,8 @@
+{
+    "Configurations": {
+        "UserName": "guest",
+        "Password": "guest",
+        "HostName": "localhost",
+        "Port": "5672"
+    }
+}
